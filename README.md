@@ -18,12 +18,12 @@
 public class AminKahram : FullStackDeveloper
 {
     private string[] _expertise = { ".NET 8", "Blazor", "React", "SQL Server" };
-    private string _location = "Tehran, Iran";
+    private string _location = "Athene, Greece";
     private bool _openToRelocation = true;
     
     public void Introduce()
     {
-        Console.WriteLine("🚀 3+ years crafting high-performance enterprise applications");
+        Console.WriteLine("🚀 5+ years crafting high-performance enterprise applications");
         Console.WriteLine("💼 Specialized in hotel management systems (50+ properties)");
         Console.WriteLine("🏆 Reduced maintenance costs by 60% through legacy modernization");
         Console.WriteLine("⚡ Optimized queries from 12s → 3s response time");
